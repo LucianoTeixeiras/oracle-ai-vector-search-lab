@@ -1,0 +1,6 @@
+.env
+wallet*
+*.pem
+tnsnames.ora
+sqlnet.ora
+*.onnx
